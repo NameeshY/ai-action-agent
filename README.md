@@ -2,8 +2,7 @@
 
 An agentic mini-app that extracts and prioritizes action items from meeting transcripts, and runs an experiment comparing a simple keyword baseline to a TF‑IDF + LinearSVC classifier with statistical significance testing. Runs fully offline on synthetic data.
 
-Why it’s Microsoft-relevant: productivity (Teams/Copilot-style), telemetry-like text analytics, and responsible experimentation (CI/p-values, deterministic splits).
-
+\
 ### Quickstart
 
 ```bash
