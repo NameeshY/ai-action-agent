@@ -1,0 +1,109 @@
+timestamp,speaker,utterance,is_action_item,has_deadline
+2024-05-14T09:00:00Z,Alice,I will send the deck by EOD,1,1
+2024-05-14T09:05:00Z,Bob,Let's get started with the agenda,0,0
+2024-05-14T09:10:00Z,Carlos,Please review the PR for the auth flow,1,0
+2024-05-14T09:12:00Z,Diana,We need to schedule a follow up meeting,1,0
+2024-05-14T09:14:00Z,Ethan,Random chat about the weekend plans,0,0
+2024-05-14T09:16:00Z,Fatima,I'll prepare the release notes by Friday,1,1
+2024-05-14T09:18:00Z,Grace,This looks promising,0,0
+2024-05-14T09:20:00Z,Henry,Can someone share the link please,1,0
+2024-05-14T09:22:00Z,Alice,I think we're aligned on the goals,0,0
+2024-05-14T09:24:00Z,Bob,Please send the customer list,1,0
+2024-05-14T09:26:00Z,Carlos,We should update the runbook,1,0
+2024-05-14T09:28:00Z,Diana,The build is red again,0,0
+2024-05-14T09:30:00Z,Ethan,I'll draft the announcement email,1,0
+2024-05-14T09:32:00Z,Fatima,Could you review the copy today,1,1
+2024-05-14T09:34:00Z,Grace,The metrics improved week over week,0,0
+2024-05-14T09:36:00Z,Henry,We need to create a dashboard,1,0
+2024-05-14T09:38:00Z,Alice,Let's skip for now,0,0
+2024-05-14T09:40:00Z,Bob,Please prepare a quick summary,1,0
+2024-05-14T09:42:00Z,Carlos,The demo went well,0,0
+2024-05-14T09:44:00Z,Diana,I'll share the notes after this,1,0
+2024-05-14T09:46:00Z,Ethan,How was the weekend,0,0
+2024-05-14T09:48:00Z,Fatima,We should finish the testing by tomorrow,1,1
+2024-05-14T09:50:00Z,Grace,The server costs increased,0,0
+2024-05-14T09:52:00Z,Henry,Please ping me when ready,1,0
+2024-05-14T09:54:00Z,Alice,We need to align with design,1,0
+2024-05-14T09:56:00Z,Bob,I'll update the doc by noon,1,1
+2024-05-14T09:58:00Z,Carlos,Nothing else from me,0,0
+2024-05-14T10:00:00Z,Diana,Please schedule time with product,1,0
+2024-05-14T10:05:00Z,Ethan,We should assign an owner,1,0
+2024-05-14T10:10:00Z,Fatima,The prototype looks good,0,0
+2024-05-14T10:15:00Z,Grace,I'll create a Jira ticket,1,0
+2024-05-14T10:20:00Z,Henry,We need to track the rollout,1,0
+2024-05-14T10:25:00Z,Alice,This is urgent please,1,0
+2024-05-14T10:30:00Z,Bob,We should prepare slides by EOD,1,1
+2024-05-14T10:35:00Z,Carlos,Thanks everyone,0,0
+2024-05-14T10:40:00Z,Diana,I'll follow up with support,1,0
+2024-05-14T10:45:00Z,Ethan,The charts look nice,0,0
+2024-05-14T10:50:00Z,Fatima,Please review the onboarding doc,1,0
+2024-05-14T10:55:00Z,Grace,We should complete the checklist,1,0
+2024-05-14T11:00:00Z,Henry,Let's take a break,0,0
+2024-05-15T09:00:00Z,Alice,Good morning team,0,0
+2024-05-15T09:05:00Z,Bob,I'll set up the meeting invite,1,0
+2024-05-15T09:10:00Z,Carlos,We need to prepare the QBR deck by Friday,1,1
+2024-05-15T09:12:00Z,Diana,Traffic was bad today,0,0
+2024-05-15T09:14:00Z,Ethan,Please send the updated numbers,1,0
+2024-05-15T09:16:00Z,Fatima,We should plan the beta rollout,1,0
+2024-05-15T09:18:00Z,Grace,Can we revisit the KPI targets,0,0
+2024-05-15T09:20:00Z,Henry,I'll share a draft later today,1,1
+2024-05-15T09:22:00Z,Alice,This is not urgent,0,0
+2024-05-15T09:24:00Z,Bob,Please update the FAQ page,1,0
+2024-05-15T09:26:00Z,Carlos,We need to document the API,1,0
+2024-05-15T09:28:00Z,Diana,I'll create a Slack channel,1,0
+2024-05-15T09:30:00Z,Ethan,Great job on the launch,0,0
+2024-05-15T09:32:00Z,Fatima,We should finish the migration by Monday,1,1
+2024-05-15T09:34:00Z,Grace,Please review the RFC,1,0
+2024-05-15T09:36:00Z,Henry,I'll prepare a demo for tomorrow,1,1
+2024-05-15T09:38:00Z,Alice,Interesting point,0,0
+2024-05-15T09:40:00Z,Bob,We need to schedule interviews,1,0
+2024-05-15T09:42:00Z,Carlos,Please share the test results,1,0
+2024-05-15T09:44:00Z,Diana,Let's keep this short,0,0
+2024-05-15T09:46:00Z,Ethan,I'll update the timeline by EOD,1,1
+2024-05-15T09:48:00Z,Fatima,We should assign reviewers,1,0
+2024-05-15T09:50:00Z,Grace,I'll ping legal for approval,1,0
+2024-05-15T09:52:00Z,Henry,We need to plan the offsite,1,0
+2024-05-15T09:54:00Z,Alice,Please prepare a rough estimate,1,0
+2024-05-15T09:56:00Z,Bob,I'll send the calendar invite now,1,0
+2024-05-15T09:58:00Z,Carlos,The sprint ended yesterday,0,0
+2024-05-15T10:00:00Z,Diana,We should track open issues,1,0
+2024-05-15T10:05:00Z,Ethan,Please set up a retro,1,0
+2024-05-15T10:10:00Z,Fatima,The graphs need more contrast,0,0
+2024-05-15T10:15:00Z,Grace,I'll finish the summary report,1,0
+2024-05-15T10:20:00Z,Henry,We need to complete the survey by Friday,1,1
+2024-05-15T10:25:00Z,Alice,Can someone check the logs,0,0
+2024-05-15T10:30:00Z,Bob,Please document the onboarding,1,0
+2024-05-15T10:35:00Z,Carlos,We should coordinate with support,1,0
+2024-05-15T10:40:00Z,Diana,I'll share the recording,1,0
+2024-05-15T10:45:00Z,Ethan,We need to update the roadmap,1,0
+2024-05-15T10:50:00Z,Fatima,Let's revisit this later,0,0
+2024-05-15T10:55:00Z,Grace,Please add the metrics to the deck,1,0
+2024-05-15T11:00:00Z,Henry,I'll prepare the outline by noon,1,1
+2024-05-16T09:00:00Z,Alice,Good to see everyone,0,0
+2024-05-16T09:05:00Z,Bob,We should review the incidents,1,0
+2024-05-16T09:10:00Z,Carlos,Please send a reminder to the team,1,0
+2024-05-16T09:12:00Z,Diana,I'll create the dashboard by Friday,1,1
+2024-05-16T09:14:00Z,Ethan,Weather is warming up,0,0
+2024-05-16T09:16:00Z,Fatima,We need to finish the patch by EOD,1,1
+2024-05-16T09:18:00Z,Grace,Please update the release notes,1,0
+2024-05-16T09:20:00Z,Henry,I will draft the blog post,1,0
+2024-05-16T09:22:00Z,Alice,That's a great idea,0,0
+2024-05-16T09:24:00Z,Bob,We should schedule a customer call,1,0
+2024-05-16T09:26:00Z,Carlos,Please assign an owner for the bug,1,0
+2024-05-16T09:28:00Z,Diana,I'll share the slides today,1,1
+2024-05-16T09:30:00Z,Ethan,Let's wrap up,0,0
+2024-05-16T09:32:00Z,Fatima,We need to complete the report,1,0
+2024-05-16T09:34:00Z,Grace,Please review the budget proposal,1,0
+2024-05-16T09:36:00Z,Henry,I'll update the test plan,1,0
+2024-05-16T09:38:00Z,Alice,We should plan the next sprint,1,0
+2024-05-16T09:40:00Z,Bob,Please send the invite to marketing,1,0
+2024-05-16T09:42:00Z,Carlos,The servers are stable,0,0
+2024-05-16T09:44:00Z,Diana,I'll finish the post-mortem by tomorrow,1,1
+2024-05-16T09:46:00Z,Ethan,Great collaboration today,0,0
+2024-05-16T09:48:00Z,Fatima,We need to track the KPI changes,1,0
+2024-05-16T09:50:00Z,Grace,Please prepare a quick summary for leadership,1,0
+2024-05-16T09:52:00Z,Henry,I'll share a draft tonight,1,1
+2024-05-16T09:54:00Z,Alice,Any blockers to call out,0,0
+2024-05-16T09:56:00Z,Bob,We should document lessons learned,1,0
+2024-05-16T09:58:00Z,Carlos,Please update the README,1,0
+2024-05-16T10:00:00Z,Diana,I will send the summary by 3pm,1,1
