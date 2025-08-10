@@ -22,6 +22,7 @@ CSV columns: `timestamp,speaker,utterance,is_action_item,has_deadline`
 - `has_deadline`: 1 when deadline cues present (e.g., “by Friday”, “EOD”), else 0.
 
 Example rows:
+<img width="1788" height="862" alt="Screenshot 2025-08-10 at 2 07 40 PM" src="https://github.com/user-attachments/assets/6bdbce24-27df-4007-bbfe-901266236310" />
 
 ```csv
 timestamp,speaker,utterance,is_action_item,has_deadline
@@ -38,6 +39,8 @@ timestamp,speaker,utterance,is_action_item,has_deadline
 - ML classifier: TF‑IDF (1–2 grams, English stopwords, max_features 10k) + LinearSVC. Deterministic random_state.
 - Urgency rules: deadlines or words like `asap/urgent/eod` → high; modal verbs like `need/should/please` → medium; else low.
 - Experiment: precision/recall/F1; bootstrap paired CI on ΔF1; optional paired t-test note (approximate since F1 isn’t additive).
+<img width="1478" height="590" alt="Screenshot 2025-08-10 at 2 08 53 PM" src="https://github.com/user-attachments/assets/f0dd2675-5c05-4369-8ae4-5c5f8029b5a4" />
+<img width="1427" height="601" alt="Screenshot 2025-08-10 at 2 09 20 PM" src="https://github.com/user-attachments/assets/f9208818-d3f7-4cb4-af17-15c9bb20f6c0" />
 
 ### Streamlit UI
 
